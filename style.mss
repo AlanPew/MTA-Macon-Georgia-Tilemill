@@ -1,8 +1,8 @@
 
 /* ----CITY STYLES----- */ 
 
-Map {
-  background-image: url(furley_bg.png);
+Map { 
+  background-image: url(furley_bg.png) ; 
 }
 
 #macon {

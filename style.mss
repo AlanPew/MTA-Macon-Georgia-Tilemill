@@ -241,7 +241,7 @@ Map {
 // set blank point file to make overlap apply to all points
 .point[zoom > 15] {
   point-file: url();
-  point-allow-overlap: true;
+  point-allow-overlap: true ;
   }
  
  #pInterest[type="civic"][zoom >= 14] 

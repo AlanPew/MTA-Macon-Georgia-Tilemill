@@ -54,7 +54,8 @@
       "srs-name": "autodetect",
       "srs": "",
       "advanced": {},
-      "name": "hiddenStops"
+      "name": "hiddenStops",
+      "status": "off"
     },
     {
       "geometry": "polygon",
@@ -72,7 +73,8 @@
         32.952791999999995
       ],
       "srs-name": "autodetect",
-      "advanced": {}
+      "advanced": {},
+      "status": "off"
     },
     {
       "geometry": "polygon",
@@ -132,7 +134,8 @@
         32.952791999999995
       ],
       "srs-name": "autodetect",
-      "advanced": {}
+      "advanced": {},
+      "status": "off"
     },
     {
       "geometry": "linestring",
@@ -153,7 +156,8 @@
         32.95254
       ],
       "srs-name": "autodetect",
-      "advanced": {}
+      "advanced": {},
+      "status": "off"
     },
     {
       "geometry": "polygon",
@@ -171,7 +175,8 @@
       "srs-name": "autodetect",
       "srs": "",
       "advanced": {},
-      "name": "parknames"
+      "name": "parknames",
+      "status": "off"
     },
     {
       "geometry": "linestring",
@@ -192,7 +197,8 @@
       "srs-name": "autodetect",
       "srs": "",
       "advanced": {},
-      "name": "mtaRoutes"
+      "name": "mtaRoutes",
+      "status": "off"
     },
     {
       "geometry": "point",
@@ -213,7 +219,8 @@
       "srs-name": "autodetect",
       "srs": "",
       "advanced": {},
-      "name": "mtaStops"
+      "name": "mtaStops",
+      "status": "off"
     },
     {
       "geometry": "linestring",
@@ -234,7 +241,8 @@
         32.95254
       ],
       "srs-name": "autodetect",
-      "advanced": {}
+      "advanced": {},
+      "status": "off"
     },
     {
       "geometry": "point",
@@ -255,7 +263,8 @@
         -83.6246681213379,
         32.6721823730387
       ],
-      "advanced": {}
+      "advanced": {},
+      "status": "off"
     },
     {
       "geometry": "point",
@@ -276,7 +285,8 @@
         -83.60302,
         32.900734
       ],
-      "advanced": {}
+      "advanced": {},
+      "status": "off"
     }
   ],
   "scale": 1,
